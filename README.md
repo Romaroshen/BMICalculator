@@ -1,1 +1,2 @@
 # BMICalculator
+# Author: Abdullaev Romiz
